@@ -9,6 +9,11 @@ img{
 	padding: 15px;
 	border-radius: 50%;
 }
+body{
+	width: 80%;
+	margin: auto;
+	max-width: 1200px;
+}
 
 #flex-image-container{
 	display: flex;
